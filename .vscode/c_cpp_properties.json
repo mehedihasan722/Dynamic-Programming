@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.22000.0",
+            "compilerPath": "F:/7 Zip/winlibs-x86_64-mcf-seh-gcc-13.2.0-llvm-16.0.6-mingw-w64ucrt-11.0.1-r2/mingw64/bin/clang++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
