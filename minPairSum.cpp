@@ -14,7 +14,7 @@ public:
 };
 
 int main() 
-{
+{ 
     Solution s;
     int n;
     cin >> n;
