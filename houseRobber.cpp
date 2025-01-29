@@ -79,5 +79,5 @@ int main()
         nums.push_back(num);
     }
     int ans = s.rob(nums);
-    cout << ans << endl;
+    cout << ans;
 }
