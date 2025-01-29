@@ -1,0 +1,1 @@
+{"name":"Local: houseRobber","url":"d:\\2025\\Dynamic Programming\\houseRobber.cpp","tests":[{"id":1738129381328,"input":"4\n1 2 3 1","output":""},{"id":1738129435213,"input":"5\n2 7 9 7 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\2025\\Dynamic Programming\\houseRobber.cpp","group":"local","local":true}
